@@ -2,7 +2,7 @@
  * CTFPartyClient.cpp
  *
  *  Created on: Dec 7, 2017
- *      Author: nullifiedcat
+ *      Author: rosne
  */
 
 #include "common.hpp"
@@ -197,3 +197,5 @@ re::ITFMatchGroupDescription *re::GetMatchGroupDescription(const CGameRules::EMa
 
     return GetMatchGroupDescription_fn(eGroup);
 }
+
+// hows going rosne 
